@@ -1,0 +1,4 @@
+#Fri Mar 13 12:29:56 CST 2020
+base.0=D\:\\Git Bash Files\\Baidu_OCR\\OCRDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
