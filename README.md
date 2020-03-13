@@ -11,7 +11,7 @@ BaiduOCR                  //记录学习百度OCR过程
 
 https://www.jianshu.com/p/a1cb0e903383
 
-基于百度OCR的Android图片文字识别（一）：
+基于百度OCR的Android图片文字识别（二）：
 
 https://www.jianshu.com/p/a842278c5b51
 
