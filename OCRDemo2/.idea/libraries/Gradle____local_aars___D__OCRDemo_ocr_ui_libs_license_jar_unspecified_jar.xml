@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:D.\OCRDemo\ocr_ui\libs\license.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ocr_ui/libs/license.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
